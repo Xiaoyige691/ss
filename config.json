@@ -1,0 +1,2312 @@
+{
+    "spider": "",
+    "wallpaper": "",
+    "warningText": "此文件可以随意调节自己想要的任何数据",
+    "logo": "http://php.540734621.xyz/logo/logo.php",
+    "sites": [
+        {
+            "key": "lf_js_search",
+            "name": "🏠  豆瓣[首页]",
+            "api": "./lib/js/lf_search3_min.js",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "config8",
+            "name": "📁  资源管理",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "api": "./Resources.py"
+        },
+        {
+            "key": "config2",
+            "name": "🔍  快搜资源",
+            "type": 4,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "api": "http://0.0.0.0:8901/config.php?mode=scan-only&type=script"
+        },
+        {
+            "key": "push_agent",
+            "name": "Push | 推送",
+            "type": 3,
+            "hide": 1,
+            "api": "csp_Push"
+        },
+        {
+            "key": "oxax直播[直](PY)",
+            "name": "oxax直播[直](PY)",
+            "type": 3,
+            "api": "./1播[直]/oxax直播.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️cam4[直](PY)",
+            "name": "✈️cam4[直](PY)",
+            "type": 3,
+            "api": "./1播[直]/✈️cam4.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️stripchat[直](PY)",
+            "name": "✈️stripchat[直](PY)",
+            "type": 3,
+            "api": "./1播[直]/✈️stripchat.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "色播聚合[直](PY)",
+            "name": "色播聚合[直](PY)",
+            "type": 3,
+            "api": "./1播[直]/色播聚合.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "74P福利图[画](PY)",
+            "name": "74P福利图[画](PY)",
+            "type": 3,
+            "api": "./2图[画]/74P福利图.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "图宅[画](PY)",
+            "name": "图宅[画](PY)",
+            "type": 3,
+            "api": "./2图[画]/图宅.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "污漫漫画[画](PY)",
+            "name": "污漫漫画[画](PY)",
+            "type": 3,
+            "api": "./2图[画]/污漫漫画.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️uaa有声[听](PY)",
+            "name": "✈️uaa有声[听](PY)",
+            "type": 3,
+            "api": "./3听[听]/✈️uaa有声.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "ss直播[Drpy][直](JS)",
+            "name": "ss直播[Drpy][直](JS)",
+            "type": 3,
+            "api": "./lib/lib/drpy2-fast.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./JS[Drpy]/直播[直]/ss直播.js"
+        },
+        {
+            "key": "Vintage Porn[PHP](PHP)",
+            "name": "Vintage Porn[PHP](PHP)",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "http://0.0.0.0:8901/PHP类[PHP]/Vintage Porn.php"
+        },
+        {
+            "key": "✈️AI修复糖心[PHP](PHP)",
+            "name": "✈️AI修复糖心[PHP](PHP)",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "http://0.0.0.0:8901/PHP类[PHP]/✈️AI修复糖心.php"
+        },
+        {
+            "key": "✈️糖心次元 ᵗˣ[PHP](PHP)",
+            "name": "✈️糖心次元 ᵗˣ[PHP](PHP)",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "http://0.0.0.0:8901/PHP类[PHP]/✈️糖心次元 ᵗˣ.php"
+        },
+        {
+            "key": "撸鸡鸡[PHP](PHP)",
+            "name": "撸鸡鸡[PHP](PHP)",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "http://0.0.0.0:8901/PHP类[PHP]/撸鸡鸡.php"
+        },
+        {
+            "key": "18XXX[XBPQ](JSON)",
+            "name": "18XXX[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/18XXX.json"
+        },
+        {
+            "key": "34猫无搜[XBPQ](JSON)",
+            "name": "34猫无搜[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/34猫无搜.json"
+        },
+        {
+            "key": "8k雷动[XBPQ](JSON)",
+            "name": "8k雷动[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/8k雷动.json"
+        },
+        {
+            "key": "91porn_asia[XBPQ](JSON)",
+            "name": "91porn_asia[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/91porn_asia.json"
+        },
+        {
+            "key": "91porny[XBPQ](JSON)",
+            "name": "91porny[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/91porny.json"
+        },
+        {
+            "key": "941cad[XBPQ](JSON)",
+            "name": "941cad[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/941cad.json"
+        },
+        {
+            "key": "AV-folder[XBPQ](JSON)",
+            "name": "AV-folder[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/AV-folder.json"
+        },
+        {
+            "key": "AVxxx[XBPQ](JSON)",
+            "name": "AVxxx[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/AVxxx.json"
+        },
+        {
+            "key": "Aress[XBPQ](JSON)",
+            "name": "Aress[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/Aress.json"
+        },
+        {
+            "key": "XXXX17AV[XBPQ](JSON)",
+            "name": "XXXX17AV[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/XXXX17AV.json"
+        },
+        {
+            "key": "camversity[XBPQ](JSON)",
+            "name": "camversity[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/camversity.json"
+        },
+        {
+            "key": "dragon[XBPQ](JSON)",
+            "name": "dragon[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/dragon.json"
+        },
+        {
+            "key": "hohoj[XBPQ](JSON)",
+            "name": "hohoj[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/hohoj.json"
+        },
+        {
+            "key": "javffm[XBPQ](JSON)",
+            "name": "javffm[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/javffm.json"
+        },
+        {
+            "key": "✈️18jtv[XBPQ](JSON)",
+            "name": "✈️18jtv[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️18jtv.json"
+        },
+        {
+            "key": "✈️300分类[XBPQ](JSON)",
+            "name": "✈️300分类[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️300分类.json"
+        },
+        {
+            "key": "✈️55视频[XBPQ](JSON)",
+            "name": "✈️55视频[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️55视频.json"
+        },
+        {
+            "key": "✈️69bag[XBPQ](JSON)",
+            "name": "✈️69bag[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️69bag.json"
+        },
+        {
+            "key": "✈️83视频[XBPQ](JSON)",
+            "name": "✈️83视频[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️83视频.json"
+        },
+        {
+            "key": "✈️91porn[XBPQ](JSON)",
+            "name": "✈️91porn[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️91porn.json"
+        },
+        {
+            "key": "✈️91porn永久[XBPQ](JSON)",
+            "name": "✈️91porn永久[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️91porn永久.json"
+        },
+        {
+            "key": "✈️FC2官网[XBPQ](JSON)",
+            "name": "✈️FC2官网[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️FC2官网.json"
+        },
+        {
+            "key": "✈️GDD视频[XBPQ](JSON)",
+            "name": "✈️GDD视频[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️GDD视频.json"
+        },
+        {
+            "key": "✈️JAVSB[XBPQ](JSON)",
+            "name": "✈️JAVSB[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️JAVSB.json"
+        },
+        {
+            "key": "✈️KISSAV[XBPQ](JSON)",
+            "name": "✈️KISSAV[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️KISSAV.json"
+        },
+        {
+            "key": "✈️PornLuLu[XBPQ](JSON)",
+            "name": "✈️PornLuLu[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️PornLuLu.json"
+        },
+        {
+            "key": "✈️P站搬运工[XBPQ](JSON)",
+            "name": "✈️P站搬运工[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️P站搬运工.json"
+        },
+        {
+            "key": "✈️airav[XBPQ](JSON)",
+            "name": "✈️airav[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️airav.json"
+        },
+        {
+            "key": "✈️asianssex[XBPQ](JSON)",
+            "name": "✈️asianssex[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️asianssex.json"
+        },
+        {
+            "key": "✈️av6k[XBPQ](JSON)",
+            "name": "✈️av6k[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️av6k.json"
+        },
+        {
+            "key": "✈️avple[XBPQ](JSON)",
+            "name": "✈️avple[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️avple.json"
+        },
+        {
+            "key": "✈️av兄弟[XBPQ](JSON)",
+            "name": "✈️av兄弟[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️av兄弟.json"
+        },
+        {
+            "key": "✈️douyinfunAV[XBPQ](JSON)",
+            "name": "✈️douyinfunAV[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️douyinfunAV.json"
+        },
+        {
+            "key": "✈️ggjav[XBPQ](JSON)",
+            "name": "✈️ggjav[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️ggjav.json"
+        },
+        {
+            "key": "✈️javday[XBPQ](JSON)",
+            "name": "✈️javday[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️javday.json"
+        },
+        {
+            "key": "✈️javmenu[XBPQ](JSON)",
+            "name": "✈️javmenu[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️javmenu.json"
+        },
+        {
+            "key": "✈️javrate[XBPQ](JSON)",
+            "name": "✈️javrate[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️javrate.json"
+        },
+        {
+            "key": "✈️javtsunami[XBPQ](JSON)",
+            "name": "✈️javtsunami[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️javtsunami.json"
+        },
+        {
+            "key": "✈️leakAV[XBPQ](JSON)",
+            "name": "✈️leakAV[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️leakAV.json"
+        },
+        {
+            "key": "✈️owoav[XBPQ](JSON)",
+            "name": "✈️owoav[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️owoav.json"
+        },
+        {
+            "key": "✈️porn87[XBPQ](JSON)",
+            "name": "✈️porn87[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️porn87.json"
+        },
+        {
+            "key": "✈️pornhub[XBPQ](JSON)",
+            "name": "✈️pornhub[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️pornhub.json"
+        },
+        {
+            "key": "✈️xgroovy[XBPQ](JSON)",
+            "name": "✈️xgroovy[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️xgroovy.json"
+        },
+        {
+            "key": "✈️xnxx[XBPQ](JSON)",
+            "name": "✈️xnxx[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️xnxx.json"
+        },
+        {
+            "key": "✈️xtoons[XBPQ](JSON)",
+            "name": "✈️xtoons[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️xtoons.json"
+        },
+        {
+            "key": "✈️xvideos[XBPQ](JSON)",
+            "name": "✈️xvideos[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️xvideos.json"
+        },
+        {
+            "key": "✈️youjizz[XBPQ](JSON)",
+            "name": "✈️youjizz[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️youjizz.json"
+        },
+        {
+            "key": "✈️一个纯粹的x站[XBPQ](JSON)",
+            "name": "✈️一个纯粹的x站[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️一个纯粹的x站.json"
+        },
+        {
+            "key": "✈️七色谷[XBPQ](JSON)",
+            "name": "✈️七色谷[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️七色谷.json"
+        },
+        {
+            "key": "✈️亚色影库[XBPQ](JSON)",
+            "name": "✈️亚色影库[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️亚色影库.json"
+        },
+        {
+            "key": "✈️伊甸园[XBPQ](JSON)",
+            "name": "✈️伊甸园[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️伊甸园.json"
+        },
+        {
+            "key": "✈️偷拍自拍[XBPQ](JSON)",
+            "name": "✈️偷拍自拍[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️偷拍自拍.json"
+        },
+        {
+            "key": "✈️公子别走[XBPQ](JSON)",
+            "name": "✈️公子别走[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️公子别走.json"
+        },
+        {
+            "key": "✈️我爱AV[XBPQ](JSON)",
+            "name": "✈️我爱AV[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️我爱AV.json"
+        },
+        {
+            "key": "✈️有爱爱[XBPQ](JSON)",
+            "name": "✈️有爱爱[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️有爱爱.json"
+        },
+        {
+            "key": "✈️杏吧视频[XBPQ](JSON)",
+            "name": "✈️杏吧视频[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️杏吧视频.json"
+        },
+        {
+            "key": "✈️桃花浪[XBPQ](JSON)",
+            "name": "✈️桃花浪[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️桃花浪.json"
+        },
+        {
+            "key": "✈️玩偶姐姐[XBPQ](JSON)",
+            "name": "✈️玩偶姐姐[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️玩偶姐姐.json"
+        },
+        {
+            "key": "✈️玩偶姐姐1[XBPQ](JSON)",
+            "name": "✈️玩偶姐姐1[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️玩偶姐姐1.json"
+        },
+        {
+            "key": "✈️班长[XBPQ](JSON)",
+            "name": "✈️班长[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️班长.json"
+        },
+        {
+            "key": "✈️精工厂[XBPQ](JSON)",
+            "name": "✈️精工厂[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️精工厂.json"
+        },
+        {
+            "key": "✈️紫色成人[XBPQ](JSON)",
+            "name": "✈️紫色成人[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️紫色成人.json"
+        },
+        {
+            "key": "✈️线上看女优[XBPQ](JSON)",
+            "name": "✈️线上看女优[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️线上看女优.json"
+        },
+        {
+            "key": "✈️美人吹箫[XBPQ](JSON)",
+            "name": "✈️美人吹箫[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️美人吹箫.json"
+        },
+        {
+            "key": "✈️酷爱成人网[XBPQ](JSON)",
+            "name": "✈️酷爱成人网[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️酷爱成人网.json"
+        },
+        {
+            "key": "✈️麻豆视频[XBPQ](JSON)",
+            "name": "✈️麻豆视频[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/✈️麻豆视频.json"
+        },
+        {
+            "key": "乐哥黑料[XBPQ](JSON)",
+            "name": "乐哥黑料[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/乐哥黑料.json"
+        },
+        {
+            "key": "凡人修色传[XBPQ](JSON)",
+            "name": "凡人修色传[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/凡人修色传.json"
+        },
+        {
+            "key": "初の体验[XBPQ](JSON)",
+            "name": "初の体验[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/初の体验.json"
+        },
+        {
+            "key": "副本无搜[XBPQ](JSON)",
+            "name": "副本无搜[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/副本无搜.json"
+        },
+        {
+            "key": "咪咪女孩[XBPQ](JSON)",
+            "name": "咪咪女孩[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/咪咪女孩.json"
+        },
+        {
+            "key": "国产片商[XBPQ](JSON)",
+            "name": "国产片商[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/国产片商.json"
+        },
+        {
+            "key": "国产视频[XBPQ](JSON)",
+            "name": "国产视频[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/国产视频.json"
+        },
+        {
+            "key": "成鸡思汉[XBPQ](JSON)",
+            "name": "成鸡思汉[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/成鸡思汉.json"
+        },
+        {
+            "key": "文件夹[XBPQ](JSON)",
+            "name": "文件夹[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/文件夹.json"
+        },
+        {
+            "key": "日日撸[XBPQ](JSON)",
+            "name": "日日撸[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/日日撸.json"
+        },
+        {
+            "key": "比卡[XBPQ](JSON)",
+            "name": "比卡[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/比卡.json"
+        },
+        {
+            "key": "水果派[XBPQ](JSON)",
+            "name": "水果派[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/水果派.json"
+        },
+        {
+            "key": "漂亮MM[XBPQ](JSON)",
+            "name": "漂亮MM[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/漂亮MM.json"
+        },
+        {
+            "key": "百灵鸟在线[XBPQ](JSON)",
+            "name": "百灵鸟在线[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/百灵鸟在线.json"
+        },
+        {
+            "key": "盲盒[XBPQ](JSON)",
+            "name": "盲盒[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/盲盒.json"
+        },
+        {
+            "key": "insta直播[XBPQ][直](JSON)",
+            "name": "insta直播[XBPQ][直](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/直播[直]/insta直播.json"
+        },
+        {
+            "key": "窜天猴[XBPQ](JSON)",
+            "name": "窜天猴[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/窜天猴.json"
+        },
+        {
+            "key": "色花堂[XBPQ](JSON)",
+            "name": "色花堂[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/色花堂.json"
+        },
+        {
+            "key": "色花堂1[XBPQ](JSON)",
+            "name": "色花堂1[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/色花堂1.json"
+        },
+        {
+            "key": "超级精品[XBPQ](JSON)",
+            "name": "超级精品[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/超级精品.json"
+        },
+        {
+            "key": "醉奶吧[XBPQ](JSON)",
+            "name": "醉奶吧[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/醉奶吧.json"
+        },
+        {
+            "key": "金陵撸铁汉[XBPQ](JSON)",
+            "name": "金陵撸铁汉[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/金陵撸铁汉.json"
+        },
+        {
+            "key": "魔法少女[XBPQ](JSON)",
+            "name": "魔法少女[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/魔法少女.json"
+        },
+        {
+            "key": "鲨鱼av[XBPQ](JSON)",
+            "name": "鲨鱼av[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/鲨鱼av.json"
+        },
+        {
+            "key": "黄色仓库11[XBPQ](JSON)",
+            "name": "黄色仓库11[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/黄色仓库11.json"
+        },
+        {
+            "key": "黄色仓库123[XBPQ](JSON)",
+            "name": "黄色仓库123[XBPQ](JSON)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./PQ类[XBPQ]/黄色仓库123.json"
+        },
+        {
+            "key": "1️⃣哥磁链[PY](PY)",
+            "name": "1️⃣哥磁链[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/1️⃣哥磁链.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "51吸瓜动态版[PY](PY)",
+            "name": "51吸瓜动态版[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/51吸瓜动态版.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "600老司机[PY](PY)",
+            "name": "600老司机[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/600老司机.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "91rb[PY](PY)",
+            "name": "91rb[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/91rb.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "DSYS[PY](PY)",
+            "name": "DSYS[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/DSYS.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "E佬通用视频 (3)[PY](PY)",
+            "name": "E佬通用视频 (3)[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/E佬通用视频 (3).py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "E佬通用视频[PY](PY)",
+            "name": "E佬通用视频[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/E佬通用视频.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "beeg[PY](PY)",
+            "name": "beeg[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/beeg.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "free4kporns[PY](PY)",
+            "name": "free4kporns[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/free4kporns.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "kemon[PY](PY)",
+            "name": "kemon[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/kemon.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "vintagepornfun[PY](PY)",
+            "name": "vintagepornfun[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/vintagepornfun.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️91-short[PY](PY)",
+            "name": "✈️91-short[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️91-short.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️91RB[PY](PY)",
+            "name": "✈️91RB[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️91RB.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️JAVmenu[PY](PY)",
+            "name": "✈️JAVmenu[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️JAVmenu.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️KissJav[PY](PY)",
+            "name": "✈️KissJav[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️KissJav.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️Pornhub[PY](PY)",
+            "name": "✈️Pornhub[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️Pornhub.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️Xhm[PY](PY)",
+            "name": "✈️Xhm[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️Xhm.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️Xvd[PY](PY)",
+            "name": "✈️Xvd[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️Xvd.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️Xvideos[PY](PY)",
+            "name": "✈️Xvideos[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️Xvideos.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️eporner[PY](PY)",
+            "name": "✈️eporner[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️eporner.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️fullhd[PY](PY)",
+            "name": "✈️fullhd[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️fullhd.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️gayvidsclub[PY](PY)",
+            "name": "✈️gayvidsclub[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️gayvidsclub.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️hsex[PY](PY)",
+            "name": "✈️hsex[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️hsex.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️koreanpornmovie[PY](PY)",
+            "name": "✈️koreanpornmovie[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️koreanpornmovie.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️tube8[PY](PY)",
+            "name": "✈️tube8[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️tube8.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️今日看料[PY](PY)",
+            "name": "✈️今日看料[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️今日看料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️啪啪视频[PY](PY)",
+            "name": "✈️啪啪视频[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️啪啪视频.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️小黄书[PY](PY)",
+            "name": "✈️小黄书[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️小黄书.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️有声小说[PY](PY)",
+            "name": "✈️有声小说[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️有声小说.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️玩物社区[PY](PY)",
+            "name": "✈️玩物社区[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️玩物社区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️黑料[PY](PY)",
+            "name": "✈️黑料[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️黑料.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "✈️黑料弹幕版[PY](PY)",
+            "name": "✈️黑料弹幕版[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/✈️黑料弹幕版.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "一个区[PY](PY)",
+            "name": "一个区[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/一个区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "七区[PY](PY)",
+            "name": "七区[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/七区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "九个区[PY](PY)",
+            "name": "九个区[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/九个区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "四虎视频[PY](PY)",
+            "name": "四虎视频[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/四虎视频.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "妲己[PY](PY)",
+            "name": "妲己[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/妲己.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "小红薯APP[PY](PY)",
+            "name": "小红薯APP[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/小红薯APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "小黄鸟[PY](WV.JS)",
+            "name": "小黄鸟[PY](WV.JS)",
+            "type": 3,
+            "api": "csp_WvSpider",
+            "jar": "./lib/WvSpider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1,
+            "ext": "./PY类[PY]/小黄鸟.wv.js"
+        },
+        {
+            "key": "推特APP[PY](PY)",
+            "name": "推特APP[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/推特APP.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "神秘影院[PY](PY)",
+            "name": "神秘影院[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/神秘影院.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "菠萝七区[PY](PY)",
+            "name": "菠萝七区[PY](PY)",
+            "type": 3,
+            "api": "./PY类[PY]/菠萝七区.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
+            "key": "91porn_asia[XYQ](JSON)",
+            "name": "91porn_asia[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/91porn_asia.json"
+        },
+        {
+            "key": "hohoj[XYQ](JSON)",
+            "name": "hohoj[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/hohoj.json"
+        },
+        {
+            "key": "✈️18jav[XYQ](JSON)",
+            "name": "✈️18jav[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️18jav.json"
+        },
+        {
+            "key": "✈️52av[XYQ](JSON)",
+            "name": "✈️52av[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️52av.json"
+        },
+        {
+            "key": "✈️52av2[XYQ](JSON)",
+            "name": "✈️52av2[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️52av2.json"
+        },
+        {
+            "key": "✈️javday[XYQ](JSON)",
+            "name": "✈️javday[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️javday.json"
+        },
+        {
+            "key": "✈️javffm[XYQ](JSON)",
+            "name": "✈️javffm[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️javffm.json"
+        },
+        {
+            "key": "✈️jieav[XYQ](JSON)",
+            "name": "✈️jieav[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️jieav.json"
+        },
+        {
+            "key": "✈️kanav[XYQ](JSON)",
+            "name": "✈️kanav[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️kanav.json"
+        },
+        {
+            "key": "✈️motv[XYQ](JSON)",
+            "name": "✈️motv[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️motv.json"
+        },
+        {
+            "key": "✈️netflav[XYQ](JSON)",
+            "name": "✈️netflav[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️netflav.json"
+        },
+        {
+            "key": "✈️qinav[XYQ](JSON)",
+            "name": "✈️qinav[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️qinav.json"
+        },
+        {
+            "key": "✈️tktube[XYQ](JSON)",
+            "name": "✈️tktube[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️tktube.json"
+        },
+        {
+            "key": "✈️ujizzcn[XYQ](JSON)",
+            "name": "✈️ujizzcn[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️ujizzcn.json"
+        },
+        {
+            "key": "✈️xHamster[XYQ](JSON)",
+            "name": "✈️xHamster[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️xHamster.json"
+        },
+        {
+            "key": "✈️丽丽av[XYQ](JSON)",
+            "name": "✈️丽丽av[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️丽丽av.json"
+        },
+        {
+            "key": "✈️亚洲色吧[XYQ](JSON)",
+            "name": "✈️亚洲色吧[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️亚洲色吧.json"
+        },
+        {
+            "key": "✈️台湾kiss[XYQ](JSON)",
+            "name": "✈️台湾kiss[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️台湾kiss.json"
+        },
+        {
+            "key": "✈️好色tv[XYQ](JSON)",
+            "name": "✈️好色tv[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️好色tv.json"
+        },
+        {
+            "key": "✈️正妹av[XYQ](JSON)",
+            "name": "✈️正妹av[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️正妹av.json"
+        },
+        {
+            "key": "✈️麻豆社[XYQ](JSON)",
+            "name": "✈️麻豆社[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/✈️麻豆社.json"
+        },
+        {
+            "key": "色最色111[XYQ](JSON)",
+            "name": "色最色111[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/色最色111.json"
+        },
+        {
+            "key": "麻豆视频91md[XYQ](JSON)",
+            "name": "麻豆视频91md[XYQ](JSON)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "./lib/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./YQ类[XYQ]/麻豆视频91md.json"
+        }
+    ],
+    "parses": [
+        {
+            "name": "J1",
+            "url": "https://kalbim.xatut.top/kalbim2025/781718/play/video_player.php?url=",
+            "type": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "J2",
+            "url": "http://sspa8.top:8100/api/?key=1060089351&url=",
+            "type": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "J芒果4k",
+            "url": "http://mg.itufm.top/mg.php?url=",
+            "type": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W花旗",
+            "url": "https://www.huaqi.live/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W冰豆",
+            "url": "https://bd.jx.cn/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W盘古",
+            "url": "https://www.playm3u8.cn/jiexi.php?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W1",
+            "url": "https://jx.xymp4.cc/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W2",
+            "url": "https://cdnsrc.cdnapi.top/json/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W3",
+            "url": "https://yparse.ik9.cc/index.php?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W4",
+            "url": "https://jiexi.site/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W5",
+            "url": "https://jx.m3u8.tv/jiexi/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W7",
+            "url": "https://www.pangujiexi.com/jiexi/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W8",
+            "url": "https://www.pouyun.com/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "W9",
+            "url": "https://jx.xmflv.com/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "Wa",
+            "url": "https://jx.xmflv.cc/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "Wb",
+            "url": "https://jx.yparse.com/index.php?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "Wc",
+            "url": "https://www.8090g.cn/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "Wz",
+            "url": "https://www.ckplayer.vip/jiexi/?url=",
+            "type": 0,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        },
+        {
+            "name": "Wy",
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
+            "type": 1,
+            "header": {
+                "User-Agent": "Mozilla/5.0"
+            }
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "hwk",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "10.0099",
+                "10.3333",
+                "16.0599",
+                "8.1748",
+                "10.85"
+            ]
+        },
+        {
+            "name": "yqk",
+            "hosts": [
+                "yqk88"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666"
+            ]
+        },
+        {
+            "name": "sn",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "15.1666",
+                "15.2666"
+            ]
+        },
+        {
+            "name": "bf",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "xx",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+            ]
+        },
+        {
+            "name": "lz",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz1",
+                "v.cdnlz"
+            ],
+            "regex": [
+                "18.5333"
+            ]
+        },
+        {
+            "name": "非凡",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy"
+            ],
+            "regex": [
+                "25.0666"
+            ]
+        },
+        {
+            "name": "hs",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "dy",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "nm",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "最 新",
+                "直 播",
+                "更 新"
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "港台大陆频道🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆"
+        },
+        {
+            "name": "xxx视频资源🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/xxx视频资源"
+        },
+        {
+            "name": "安博(梯子)🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/安博"
+        },
+        {
+            "key": "18",
+            "name": "18oumei",
+            "url": "https://13608.kstore.space/zb/18oumei.m3u"
+        }
+    ]
+}
