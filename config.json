@@ -40,6 +40,16 @@
             "api": "csp_Push"
         },
         {
+            "key": "✈️redgifs[短](PY)",
+            "name": "✈️redgifs[短](PY)",
+            "type": 3,
+            "api": "./0拍[短]/✈️redgifs.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
             "key": "oxax直播[直](PY)",
             "name": "oxax直播[直](PY)",
             "type": 3,
@@ -90,6 +100,26 @@
             "switchable": 1
         },
         {
+            "key": "✈️绅士漫画 ᵈᶻ[画](PHP)",
+            "name": "✈️绅士漫画 ᵈᶻ[画](PHP)",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "http://0.0.0.0:8901/2图[画]/✈️绅士漫画 ᵈᶻ[画].php"
+        },
+        {
+            "key": "✈️绅士漫画[画](PY)",
+            "name": "✈️绅士漫画[画](PY)",
+            "type": 3,
+            "api": "./2图[画]/✈️绅士漫画.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "switchable": 1
+        },
+        {
             "key": "图宅[画](PY)",
             "name": "图宅[画](PY)",
             "type": 3,
@@ -131,6 +161,16 @@
             "ext": "./JS[Drpy]/直播[直]/ss直播.js"
         },
         {
+            "key": "123av[PHP](PHP)",
+            "name": "123av[PHP](PHP)",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "http://0.0.0.0:8901/PHP类[PHP]/123av.php"
+        },
+        {
             "key": "Vintage Porn[PHP](PHP)",
             "name": "Vintage Porn[PHP](PHP)",
             "type": 4,
@@ -141,26 +181,6 @@
             "api": "http://0.0.0.0:8901/PHP类[PHP]/Vintage Porn.php"
         },
         {
-            "key": "✈️AI修复糖心[PHP](PHP)",
-            "name": "✈️AI修复糖心[PHP](PHP)",
-            "type": 4,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "api": "http://0.0.0.0:8901/PHP类[PHP]/✈️AI修复糖心.php"
-        },
-        {
-            "key": "✈️糖心次元 ᵗˣ[PHP](PHP)",
-            "name": "✈️糖心次元 ᵗˣ[PHP](PHP)",
-            "type": 4,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "api": "http://0.0.0.0:8901/PHP类[PHP]/✈️糖心次元 ᵗˣ.php"
-        },
-        {
             "key": "撸鸡鸡[PHP](PHP)",
             "name": "撸鸡鸡[PHP](PHP)",
             "type": 4,
@@ -169,6 +189,16 @@
             "changeable": 1,
             "filterable": 1,
             "api": "http://0.0.0.0:8901/PHP类[PHP]/撸鸡鸡.php"
+        },
+        {
+            "key": "糖心次元[PHP](PHP)",
+            "name": "糖心次元[PHP](PHP)",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "http://0.0.0.0:8901/PHP类[PHP]/糖心次元.php"
         },
         {
             "key": "18XXX[XBPQ](JSON)",
